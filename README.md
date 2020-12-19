@@ -6,6 +6,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)](https://vk.com/thelifeworm)
 [![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)](https://vk.com/thelifeworm)
 [![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=6296CC)](https://vk.com/thelifeworm)
+[![OpenGL](https://img.shields.io/badge/-OpenGL-090909?style=for-the-badge&logo=OpenGL&logoColor=5c829e)](https://vk.com/thelifeworm)
 [![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)](https://vk.com/thelifeworm)
 
 ### Add Me:
